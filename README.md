@@ -11,26 +11,36 @@ Project is part of Final Assessment IS601 that encapsulates Python, Flask, SQLAl
 * ![Part1](./snapshots/10.PNG)
 * ![Part1](./snapshots/11.PNG)
 * ![Part1](./snapshots/12.PNG)
+
 ###Part2
 * ![Part2](./snapshots/2.PNG)
+
 ###Part3
 * ![Part3](./snapshots/3.PNG)
 * ![Part3](./snapshots/4.PNG)
 * ![Part3](./snapshots/5.PNG)
+
 ###Part4
 * ![Part4](./snapshots/6.PNG)
+
 ###Part5
 * ![Part5](./snapshots/7.PNG)
+
 ###Part6
 * ![Part6](./snapshots/5.PNG)
+
 ###Part7
 * ![Part7](./snapshots/8.PNG)
+
 ###Part8
 * ![Part8](./snapshots/7.PNG)
+
 ###Part9
 * ![Part9](./snapshots/9.PNG)
+
 ###Part10
 * ![Part10](./snapshots/13.PNG)
+
 ###Part11
 * ![Part11](./snapshots/14.PNG)
 
