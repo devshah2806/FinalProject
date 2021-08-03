@@ -56,7 +56,7 @@ Project is part of Final Assessment IS601 that encapsulates Python, Flask, SQLAl
 * [Part3](https://hackersandslackers.com/flask-wtforms-forms)
 
 #### The Art of Routing in Flask
-*[Part4](https://hackersandslackers.com/flask-routes)
+* [Part4](https://hackersandslackers.com/flask-routes)
 
 #### Configuring Your Flask App
 * [Part5](https://hackersandslackers.com/configure-flask-applications)
