@@ -56,3 +56,4 @@ services:
     container_name: "Flask_App233333333333"
     ports:
       - "5010:5010"
+
